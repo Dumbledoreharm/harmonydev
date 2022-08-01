@@ -1,0 +1,13 @@
+.john{
+    background-color: azure;
+    border: 20px;
+    justify-content: center;
+}
+.div1{
+    background-color: rgb(124, 49, 102);
+    border-style: groove;
+    border: 8px;
+    justify-content: center;
+    padding: 6px;
+
+}

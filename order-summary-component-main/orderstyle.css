@@ -1,0 +1,46 @@
+body{
+    display: flexbox;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 600px;
+    margin-right: 400px;
+    background-color: hsl(225, 100%, 94%);
+    border-radius: 90px;
+    max-width: 400px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.write{
+    text-align: center;
+    font-size: 16px;
+    margin: auto;
+    padding: 12px;
+    border: 20px;
+border-radius: 6px;
+background-color: rgb(184, 203, 241);
+}
+.annual{
+    background-color:hsl(224, 23%, 55%) ;
+    text-align: center;
+    border-radius: 8px;
+}
+.img1{
+    align-content: center;
+
+}
+#jig{
+    align-content: flex-end;
+}
+
+.payment{
+    background-color: hsl(245, 75%, 52%);
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: inset;
+}
+.cz{
+    text-align: center;
+    background-color: rgb(199, 180, 235);
+}
+    
